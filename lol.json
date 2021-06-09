@@ -5,7 +5,10 @@
         "Construct algorithms, in english, to solve basic tasks"
     ],
    
-    "name": "Algorithms & Abstraction"
+    "name": "Algorithms & Abstraction",
+    iconClosed: <RiIcons.RiArrowDownSFill />,
+    iconOpened: <RiIcons.RiArrowUpSFill />
+
 },
 {
     "activities": [
@@ -14,7 +17,10 @@
         "Use variables in code and trace different values they hold"
     ],
    
-    "name": "Data types, Error messages, Variables"
+    "name": "Data types, Error messages, Variables",
+    iconClosed: <RiIcons.RiArrowDownSFill />,
+    iconOpened: <RiIcons.RiArrowUpSFill />
+
 },
 {
     "activities": [
@@ -23,7 +29,9 @@
         "Interpret binary numbers as abstract types, including colors and text"
     ],
    
-    "name": "Number Systems"
+    "name": "Number Systems",
+    iconClosed: <RiIcons.RiArrowDownSFill />,
+    iconOpened: <RiIcons.RiArrowUpSFill />
 },
 {
     "activities": [
@@ -32,7 +40,9 @@
         "Recognize the difference between local and global scope"
     ],
    
-    "name": "Functions"
+    "name": "Functions",
+    iconClosed: <RiIcons.RiArrowDownSFill />,
+    iconOpened: <RiIcons.RiArrowUpSFill />
 },
 {
     "activities": [
@@ -42,7 +52,9 @@
         "Recognize the different types of errors raised at different points in the python translation process"
     ],
    
-    "name": "Program execution"
+    "name": "Program execution",
+    iconClosed: <RiIcons.RiArrowDownSFill />,
+    iconOpened: <RiIcons.RiArrowUpSFill />
 },
 {
     "activities": [
@@ -50,7 +62,9 @@
         "Use conditionals in algorithms that make choices based on data"
     ],
    
-    "name": "Logical operators and conditions"
+    "name": "Logical operators and conditions",
+    iconClosed: <RiIcons.RiArrowDownSFill />,
+    iconOpened: <RiIcons.RiArrowUpSFill />
 },
 {
     "activities": [
@@ -59,7 +73,9 @@
         "Recognize how addition is done at the circuit level"
     ],
    
-    "name": "Truth tables and circuits"
+    "name": "Truth tables and circuits",
+    iconClosed: <RiIcons.RiArrowDownSFill />,
+    iconOpened: <RiIcons.RiArrowUpSFill />
 },
 {
     "activities": [
@@ -67,7 +83,9 @@
         "Identify start values, continuing conditions, and update actions for loop control variables"
     ],
    
-    "name": "Loops"
+    "name": "Loops",
+    iconClosed: <RiIcons.RiArrowDownSFill />,
+    iconOpened: <RiIcons.RiArrowUpSFill />
 },
 {
     "activities": [
@@ -75,7 +93,9 @@
         "Recognize which numbers will be produced by a range expression"
     ],
    
-    "name": "For loops"
+    "name": "For loops",
+    iconClosed: <RiIcons.RiArrowDownSFill />,
+    iconOpened: <RiIcons.RiArrowUpSFill />
 },
 {
     "activities": [
@@ -83,6 +103,8 @@
         "Use nesting of statements to create complex control flow"
     ],
    
-    "name": "Control flow"
+    "name": "Control flow",
+    iconClosed: <RiIcons.RiArrowDownSFill />,
+    iconOpened: <RiIcons.RiArrowUpSFill />
 }
 ]

@@ -1,4 +1,4 @@
-import * as RiIcons from 'react-icons/ri';
+
 
 [{
     "activities": [
@@ -7,9 +7,7 @@ import * as RiIcons from 'react-icons/ri';
         "Construct algorithms, in english, to solve basic tasks"
     ],
    
-    "name": "Algorithms & Abstraction",
-    iconClosed: <RiIcons.RiArrowDownSFill />,
-    iconOpened: <RiIcons.RiArrowUpSFill />
+    "name": "Algorithms & Abstraction"
 
 },
 {
@@ -19,11 +17,7 @@ import * as RiIcons from 'react-icons/ri';
         "Use variables in code and trace different values they hold"
     ],
    
-    "name": "Data types, Error messages, Variables",
-    iconClosed: <RiIcons.RiArrowDownSFill />,
-    iconOpened: <RiIcons.RiArrowUpSFill />
-
-},
+    "name": "Data types, Error messages, Variables"
 {
     "activities": [
         "Explain how different number systems hold the same information",
@@ -31,9 +25,7 @@ import * as RiIcons from 'react-icons/ri';
         "Interpret binary numbers as abstract types, including colors and text"
     ],
    
-    "name": "Number Systems",
-    iconClosed: <RiIcons.RiArrowDownSFill />,
-    iconOpened: <RiIcons.RiArrowUpSFill />
+    "name": "Number Systems"
 },
 {
     "activities": [
@@ -42,9 +34,7 @@ import * as RiIcons from 'react-icons/ri';
         "Recognize the difference between local and global scope"
     ],
    
-    "name": "Functions",
-    iconClosed: <RiIcons.RiArrowDownSFill />,
-    iconOpened: <RiIcons.RiArrowUpSFill />
+    "name": "Functions"
 },
 {
     "activities": [
@@ -54,9 +44,7 @@ import * as RiIcons from 'react-icons/ri';
         "Recognize the different types of errors raised at different points in the python translation process"
     ],
    
-    "name": "Program execution",
-    iconClosed: <RiIcons.RiArrowDownSFill />,
-    iconOpened: <RiIcons.RiArrowUpSFill />
+    "name": "Program execution"
 },
 {
     "activities": [
@@ -64,9 +52,7 @@ import * as RiIcons from 'react-icons/ri';
         "Use conditionals in algorithms that make choices based on data"
     ],
    
-    "name": "Logical operators and conditions",
-    iconClosed: <RiIcons.RiArrowDownSFill />,
-    iconOpened: <RiIcons.RiArrowUpSFill />
+    "name": "Logical operators and conditions"
 },
 {
     "activities": [
@@ -75,9 +61,7 @@ import * as RiIcons from 'react-icons/ri';
         "Recognize how addition is done at the circuit level"
     ],
    
-    "name": "Truth tables and circuits",
-    iconClosed: <RiIcons.RiArrowDownSFill />,
-    iconOpened: <RiIcons.RiArrowUpSFill />
+    "name": "Truth tables and circuits"
 },
 {
     "activities": [
@@ -85,9 +69,7 @@ import * as RiIcons from 'react-icons/ri';
         "Identify start values, continuing conditions, and update actions for loop control variables"
     ],
    
-    "name": "Loops",
-    iconClosed: <RiIcons.RiArrowDownSFill />,
-    iconOpened: <RiIcons.RiArrowUpSFill />
+    "name": "Loops"
 },
 {
     "activities": [
@@ -95,9 +77,7 @@ import * as RiIcons from 'react-icons/ri';
         "Recognize which numbers will be produced by a range expression"
     ],
    
-    "name": "For loops",
-    iconClosed: <RiIcons.RiArrowDownSFill />,
-    iconOpened: <RiIcons.RiArrowUpSFill />
+    "name": "For loops"
 },
 {
     "activities": [
@@ -105,8 +85,6 @@ import * as RiIcons from 'react-icons/ri';
         "Use nesting of statements to create complex control flow"
     ],
    
-    "name": "Control flow",
-    iconClosed: <RiIcons.RiArrowDownSFill />,
-    iconOpened: <RiIcons.RiArrowUpSFill />
+    "name": "Control flow"
 }
 ]

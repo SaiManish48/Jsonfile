@@ -1,5 +1,4 @@
-[ 
- {
+{
     "activities": [
       {
         "id" : "1",
@@ -231,4 +230,3 @@
     "name": "Control flow",
     "module_id" : "10"
 }
-]

@@ -1,0 +1,181 @@
+[
+  
+ {
+    "activities": [
+      {
+        "id" : "1",
+        "title":"Define algorithms"
+      },
+      {
+        "id" : "2:,
+        "title":"Define abstraction"
+      },
+      {
+        "id" : "3",
+        "title":"Construct algorithms, in english, to solve basic tasks
+      }
+    ],
+   
+    "name": "Algorithms & Abstraction",
+   "id" :"1"
+},
+{
+    "activities": [
+      {
+        "id" : "4",
+        "title":"Recognize and use basic data types"
+      },
+      {
+        "id" : "5",
+        "title":"Interpret and react to error messages caused by programs"
+      },
+      {
+        "id" : "6",
+        "title":"Use variables in code and trace different values they hold"
+      }
+    ],
+   
+    "name": "Data types, Error messages, Variables",
+    "id" : "2"
+},
+{
+    "activities": [
+      {
+        "id" : "7",
+        "title":"Explain how different number systems hold the same information"
+      },
+      {
+        "id" : "8",
+        "title":"Translate binary numbers to decimal and vice versa"
+      },
+      {
+        "id" : "9",
+        "title":"Interpret binary numbers as abstract types, including colors and text"
+      }
+    ],
+   
+    "name": "Number Systems",
+    "id" : "3"
+},
+{
+    "activities": [
+      {
+        "id" : "10",
+        "title":"Use variables in code and trace different values they hold"
+      },
+      {
+        "id" : "11",
+        "title": "Use function definitions to implement algorithms"
+      },
+      {
+        "id" : "12",
+        "title":"Recognize the difference between local and global scope"
+      }
+    ],
+   
+    "name": "Functions",
+    "id" : "4"
+},
+{
+    "activities": [
+      {
+        "id" : "13",
+        "title":"Trace the call stack of nested function calls"
+      },
+      {
+        "id" : "14",
+        "title":"Use libraries to import functions in categories like math, randomness, and graphics"
+      },
+      {
+        "id" : "15",
+        "title":"Recognize the process of tokenizing, parsing, and translating code into instructions a computer can execute"
+      },
+      {
+        "id" : "16",
+        "title":"Recognize the different types of errors raised at different points in the python translation process"
+      }
+    ],
+   
+    "name": "Program execution",
+    "id" : "5"
+},
+{
+    "activities": [
+      {
+        "id" : "17",
+        "title":"Use logical operators on Booleans to compute whether an expression is True or False"
+      },
+      {
+        "id" : "18",
+        "title": "Use conditionals in algorithms that make choices based on data"
+      }
+    ],
+   
+    "name": "Logical operators and conditions",
+    "id" : "6"
+},
+{
+    "activities": [
+      {
+        "id" : "19",
+        "title":"Translate boolean expressions to truth tables and circuits"
+      },
+      {
+        "id" : "20",
+        "title":"Translate circuits to truth tables and Boolean expressions"
+      },
+      {
+        "id" : "21",
+        "title":"Recognize how addition is done at the circuit level"
+      }
+    ],
+   
+    "name": "Truth tables and circuits",
+    "id" : "7"
+},
+{
+    "activities": [
+      {
+        "id" : "22",
+        "title":"Use while loops in algorithms to repeat actions while a certain condition is met"
+      },
+      {
+        "id" : "23",
+        "title":"Identify start values, continuing conditions, and update actions for loop control variables"
+      }
+    ],
+   
+    "name": "Loops",
+    "id" : "8"
+},
+{
+    "activities": [
+      {
+        "id" : "24",
+        "title":"Use for loops in algorithms to repeat actions a specified number of times"
+      },
+      {
+        "id" : "25",
+        "title":"Recognize which numbers will be produced by a range expression"
+      }
+    ],
+   
+    "name": "For loops",
+    "id" : "9"
+},
+{
+    "activities": [
+      {
+        "id" : "26",
+        "title":"Translate algorithms from control flow charts to python code"
+      },
+      {
+        "id" : "27",
+        "title":"Use nesting of statements to create complex control flow"
+      }
+    ],
+   
+    "name": "Control flow",
+    "id" : "10"
+}
+]

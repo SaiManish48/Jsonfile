@@ -1,5 +1,4 @@
-[
-  
+[ 
  {
     "activities": [
       {
@@ -12,15 +11,14 @@
       },
       {
         "id" : "3",
-        "title":"Construct algorithms, in english, to solve basic tasks
+        "title":"Construct algorithms, in english, to solve basic tasks"
       }
     ],
-   
-    "name": "Algorithms & Abstraction",
+   "name": "Algorithms & Abstraction",
    "id" :"1"
 },
 {
-    "activities": [
+  "activities": [
       {
         "id" : "4",
         "title":"Recognize and use basic data types"
@@ -34,9 +32,8 @@
         "title":"Use variables in code and trace different values they hold"
       }
     ],
-   
-    "name": "Data types, Error messages, Variables",
-    "id" : "2"
+  "name": "Data types, Error messages, Variables",
+  "id" : "2"
 },
 {
     "activities": [
@@ -53,8 +50,7 @@
         "title":"Interpret binary numbers as abstract types, including colors and text"
       }
     ],
-   
-    "name": "Number Systems",
+  "name": "Number Systems",
     "id" : "3"
 },
 {

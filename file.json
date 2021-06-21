@@ -21,7 +21,7 @@
       }
     ],
    "name": "Algorithms & Abstraction",
-   "id" :"1"
+   "module_id" :"1"
 },
 {
   "activities": [
@@ -45,7 +45,7 @@
       }
     ],
   "name": "Data types, Error messages, Variables",
-  "id" : "2"
+  "module_id" : "2"
 },
 {
     "activities": [
@@ -70,7 +70,7 @@
       }
     ],
   "name": "Number Systems",
-    "id" : "3"
+    "module_id" : "3"
 },
 {
     "activities": [
@@ -97,7 +97,7 @@
     ],
    
     "name": "Functions",
-    "id" : "4"
+    "module_id" : "4"
 },
 {
     "activities": [
@@ -128,7 +128,7 @@
     ],
    
     "name": "Program execution",
-    "id" : "5"
+    "module_id" : "5"
 },
 {
     "activities": [
@@ -147,7 +147,7 @@
     ],
    
     "name": "Logical operators and conditions",
-    "id" : "6"
+    "module_id" : "6"
 },
 {
     "activities": [
@@ -172,7 +172,7 @@
     ],
    
     "name": "Truth tables and circuits",
-    "id" : "7"
+    "module_id" : "7"
 },
 {
     "activities": [
@@ -191,7 +191,7 @@
     ],
    
     "name": "Loops",
-    "id" : "8"
+    "module_id" : "8"
 },
 {
     "activities": [
@@ -210,7 +210,7 @@
     ],
    
     "name": "For loops",
-    "id" : "9"
+    "module_id" : "9"
 },
 {
     "activities": [
@@ -229,6 +229,6 @@
     ],
    
     "name": "Control flow",
-    "id" : "10"
+    "module_id" : "10"
 }
 ]
